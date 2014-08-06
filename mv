@@ -1,0 +1,1 @@
+moves the specified file to a new location. can also be used to rename files. type mv (filename) (newlocation)
